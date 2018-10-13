@@ -1,0 +1,5 @@
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\4\LatihanInInheritancetgs\LatihanInInheritancetgs\bin\Debug\LatihanInInheritancetgs.exe.config
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\4\LatihanInInheritancetgs\LatihanInInheritancetgs\bin\Debug\LatihanInInheritancetgs.exe
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\4\LatihanInInheritancetgs\LatihanInInheritancetgs\bin\Debug\LatihanInInheritancetgs.pdb
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\4\LatihanInInheritancetgs\LatihanInInheritancetgs\obj\Debug\LatihanInInheritancetgs.exe
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\4\LatihanInInheritancetgs\LatihanInInheritancetgs\obj\Debug\LatihanInInheritancetgs.pdb
